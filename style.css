@@ -68,7 +68,7 @@ body{
 
 .price-color{
     color: hsl(158, 36%, 37%);
-    font-size: 28px;
+    font-size: 2em;
     font-weight: 500px;
 }
 strike{
@@ -80,8 +80,8 @@ strike{
 } */
 .price{
     display: flex;
-    gap: 6%;
-    margin: 14% 0;
+    gap: 8%;
+    margin: 16% 0;
 }
 .price p{
     display: flex;
