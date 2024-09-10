@@ -33,7 +33,7 @@ body{
     background-color: white;
     border-radius: 10px;
     overflow: hidden;
-    margin: 10% auto;
+    margin: 12% auto;
     box-sizing: border-box;
     min-width: 580px;
     display: flex;
@@ -59,6 +59,9 @@ body{
 .title p{
     letter-spacing: 5px;
 }
+.heading-description{
+    margin: 6% 0;
+}
 
 .price-color{
     color: hsl(158, 36%, 37%);
@@ -75,6 +78,7 @@ strike{
 .price{
     display: flex;
     gap: 6%;
+    margin: 8%;
 }
 .price p{
     display: flex;
