@@ -24,6 +24,9 @@ body{
         /* font-weight: bolder; */
 
 }
+.font-montserrat p{
+    line-height: 1.5rem;
+}
 .container{
     width: 100%;  
     /* display: grid; */
@@ -78,7 +81,7 @@ strike{
 .price{
     display: flex;
     gap: 6%;
-    margin: 8%;
+    margin: 14% 0;
 }
 .price p{
     display: flex;
